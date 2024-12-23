@@ -1,5 +1,8 @@
 _repo: M-Renan-l-Allemagne-et-l-atheisme-au-XIXe-siecle_74819
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74819-h/images/cover.jpg
 creator:
   author:
     agent_name: Hello, Ernest
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Ernest_Hello
     - https://fr.wikipedia.org/wiki/Ernest_Hello
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74819#M-Renan-l-Allemagne-et-l-atheisme-au-XIXe-siecle
 gutenberg_issued: '2024-11-30'
 gutenberg_type: Text
 identifiers:
